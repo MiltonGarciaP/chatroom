@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.pdb

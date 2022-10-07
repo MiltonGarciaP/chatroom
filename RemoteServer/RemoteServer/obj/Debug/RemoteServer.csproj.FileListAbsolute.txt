@@ -1,0 +1,24 @@
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CopyComplete
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CopyComplete
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb

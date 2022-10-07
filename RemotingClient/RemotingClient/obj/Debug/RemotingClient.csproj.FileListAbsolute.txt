@@ -1,0 +1,26 @@
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\DELL\Desktop\Archivos de milton\Documentos de Fela\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Diseño Centrado en el Usuario\Tarea 8\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
